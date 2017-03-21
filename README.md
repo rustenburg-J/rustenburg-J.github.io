@@ -6,3 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sollicitudin ex 
 ![](images2/kermit-1704932__340.jpg)
 
 Vivamus fermentum lacinia nibh vitae finibus. Etiam a ante erat. Donec sed lectus tincidunt, scelerisque ipsum vel, scelerisque ligula. Nulla pharetra nisi porttitor hendrerit viverra. Integer non tincidunt magna. Maecenas sed sollicitudin nisi. Ut viverra luctus sapien a vestibulum. Phasellus scelerisque, nulla in congue posuere, turpis odio congue lacus, at pulvinar mauris turpis et orci. Ut dignissim nisi ac massa mollis, at pellentesque eros aliquet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+### Blog
+
+[Blog](/blog.md)
