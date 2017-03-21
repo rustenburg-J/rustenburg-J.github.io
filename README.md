@@ -9,4 +9,4 @@ Vivamus fermentum lacinia nibh vitae finibus. Etiam a ante erat. Donec sed lectu
 
 ### Blog
 
-[Blog](/blog.md)
+[Blog](/blog)
